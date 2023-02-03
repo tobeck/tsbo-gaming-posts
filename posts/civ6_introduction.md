@@ -1,6 +1,6 @@
 ---
 title: civ6_introduction
-published: 2023-02-02
+published: 2023-02-03
 slug: civ6_intro_slug
 ---
 
