@@ -1,12 +1,12 @@
 ---
-title: Introduction to Civilization 6 Gameplay Mechanics
+title: civ6_intro
 published: 2023-02-02
-slug: Civilization 6 is a complex and challenging turn-based strategy game that offers players the opportunity to build their own civilization from the ground up. In this beginner's guide, we'll introduce you to the core mechanics of the game and help you get started on your journey to becoming a successful ruler.
+slug: civ6_intro_slug
 ---
 
-# {{ title }}
+# Introduction to Civilization 6 Gameplay Mechanics
 
-{{ slug }}
+Civilization 6 is a complex and challenging turn-based strategy game that offers players the opportunity to build their own civilization from the ground up. In this beginner's guide, we'll introduce you to the core mechanics of the game and help you get started on your journey to becoming a successful ruler.
 
 ## Building Your Civilization
 
